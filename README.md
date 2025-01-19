@@ -23,7 +23,7 @@
 
   - 📄 Know about my experiences on my [**Resume page**](https://mdtausifiqbal.github.io/resume/)
 
-  - 📫 How to reach me **mdtausifiqbalnwd@gmail.com**
+  - 📫 How to reach me **mdtausifiqbal.dev@gmail.com**
 </section>
 
 <hr/>
